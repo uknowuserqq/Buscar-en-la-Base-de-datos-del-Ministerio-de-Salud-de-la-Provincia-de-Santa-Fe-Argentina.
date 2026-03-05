@@ -7,7 +7,7 @@ Estado de Obra Social: Indica si la persona tiene cobertura privada (prepaga/obr
 
 Asignación de Centro de Salud: Revela en qué hospital o centro de salud tiene que atenderse esa persona según su domicilio registrado.
 
-- ilegal:  para realizar consultas masivas (fuerza bruta de DNIs) o "automatizar" el acceso. Esto puede ser interpretado como un "acceso no autorizado" o una alteración del funcionamiento del sistema informático (Art. 153 bis del Código Penal Argentino).
+- ( ⛓️ ) ilegal:  si lo usas para realizar consultas masivas (fuerza bruta de DNIs) o "automatizar" el acceso. Esto puede ser interpretado como un "acceso no autorizado" o una alteración del funcionamiento del sistema informático (Art. 153 bis del Código Penal Argentino).
 
 
 
