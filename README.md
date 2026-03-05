@@ -1,3 +1,15 @@
+🔍 ¿Para qué sirve exactamente?
+Sirve para obtener la Ficha Técnica de cualquier ciudadano de la provincia a partir de su DNI. Al ejecutarlo, la herramienta "extrae" del servidor oficial los siguientes datos:
+
+Validación de Identidad: Confirma si el DNI ingresado existe y a qué nombre y apellido completo está vinculado en los registros estatales.
+
+Estado de Obra Social: Indica si la persona tiene cobertura privada (prepaga/obra social) o si depende exclusivamente del sistema de salud pública provincial.
+
+Asignación de Centro de Salud: Revela en qué hospital o centro de salud tiene que atenderse esa persona según su domicilio registrado.
+
+
+
+
 # 🔍 Buscador de base de datos (arg)
 
 
